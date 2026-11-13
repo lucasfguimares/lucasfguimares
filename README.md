@@ -27,8 +27,3 @@ Escrevo back-end em **Go** e **Bun + TypeScript** com foco em código simples, d
 > Simplicidade é sofisticação. 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasfguimares&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfguimares&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
